@@ -1,4 +1,0 @@
-<!DOCTYPE hrml>
-<hrml>
-<head>
-<title> Page Title </title>
